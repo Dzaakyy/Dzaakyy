@@ -18,14 +18,6 @@
 
 ---
 
-### 🚀 About Me
-
-💡 Passionate about crafting **clean, scalable, and efficient applications**.  
-🎯 Currently focused on **Flutter**, **Laravel**, and **Node.js**.  
-🧩 Interested in **Fullstack Development**, **System Architecture**, and **UI/UX Design**.  
-⚡ *"Write code for humans first — then make machines love it."*
-
----
 
 ### 🧠 Tech Stack & Tools
 
