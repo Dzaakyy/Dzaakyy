@@ -22,7 +22,7 @@
 ### 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,nodejs,express,mysql,git,github,vscode,androidstudio,figma,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,nodejs,express,vue,mysql,git,github,vscode,androidstudio,figma,postman&perline=8" />
 </p>
 
 ---
