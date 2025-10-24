@@ -1,4 +1,5 @@
-<!-- ✨ MODERN & CLEAN GITHUB PROFILE README -->
+<img src="https://github.com/user-attachments/assets/d0e3b6a7-8cda-4919-83bb-d82b7394bd0f" width="100%" alt="Banner GIF" />
+
 <h1 align="center">
   👋 Hi, I'm 
   <span style="background: linear-gradient(90deg, #2563EB, #60A5FA); -webkit-background-clip: text; color: transparent;">
