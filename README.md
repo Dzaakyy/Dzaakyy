@@ -28,11 +28,15 @@
 
 <p align="center">
   <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Dzaakyy&theme=tokyonight&hide_border=true&ring=3B82F6&fire=60A5FA" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dzaakyy&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=60A5FA" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Dzaakyy&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=60A5FA" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="80%" alt="snake animation" />
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="80%">
+  </picture>
 </p>
 
 ---
