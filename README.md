@@ -28,7 +28,9 @@
 
 <p align="center">
   <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Dzaakyy&theme=tokyonight&hide_border=true&ring=3B82F6&fire=60A5FA" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Dzaakyy&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=60A5FA" />
+
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Dzaakyy&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=60A5FA&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
