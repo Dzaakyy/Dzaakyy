@@ -14,7 +14,7 @@ Building scalable web applications, mobile applications, and AI-powered solution
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,react,vue,nodejs,express,mysql,postgresql,git,github,vscode,androidstudio,figma,postman&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,react,vue,nodejs,express,mysql,postgresql,git,github,vscode,androidstudio,docker,figma,postman&perline=9" alt="Tech Stack" />
 </p>
 
 ---
